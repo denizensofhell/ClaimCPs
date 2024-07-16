@@ -1,3 +1,6 @@
+// Open dev tools using F12 and paste the following code into the console.
+
+
 const targetNode = document.querySelector('div[data-test-selector="community-points-summary"]');
 
 if (!targetNode) {
